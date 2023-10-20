@@ -1,0 +1,12 @@
+{
+    "type": "code",
+    "side": "server",
+    "modid": "halloweeneveryday",
+    "name": "Halloween Every Day",
+    "description": "Allows to carve pumpkins all year round",
+    "authors": ["Craluminum2413", "KenigVovan"],
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.18.8"
+    }
+}
