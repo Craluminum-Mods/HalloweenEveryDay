@@ -4,9 +4,9 @@
     "modid": "halloweeneveryday",
     "name": "Halloween Every Day",
     "description": "Allows to carve pumpkins all year round",
-    "authors": ["Craluminum2413", "KenigVovan"],
-    "version": "1.0.0",
+    "authors": ["Craluminum2413"],
+    "version": "1.1.0",
     "dependencies": {
-        "game": "1.18.8"
+        "game": "1.19.0-pre.7"
     }
 }
